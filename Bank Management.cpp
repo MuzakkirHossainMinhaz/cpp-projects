@@ -142,7 +142,7 @@ int main()
         cout << endl;
         cout << "Select Option:" << endl;
         cout << "  1. ADD Money to Bank." << endl;
-        cout << "  2. DEPOSITE Money from Bank." << endl;
+        cout << "  2. DEPOSIT Money from Bank." << endl;
         cout << "  3. ADD Money to MyCash from Bank." << endl;
         cout << "  4. Exit." << endl;
         cout << endl;

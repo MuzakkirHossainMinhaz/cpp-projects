@@ -42,7 +42,7 @@ int main()
     {
         cout << endl;
         cout << "\t\t BUY PRODUCT" << endl;
-        cout << "\t\t_____________" << endl;
+        cout << "\t\t-------------" << endl;
 
         cout << "Product Index\t\t";
         for(int i=1; i<=n; i++)
